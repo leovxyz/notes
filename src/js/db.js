@@ -222,3 +222,5 @@ export const db = {
   }
 
 }
+
+// localStorage.clear()
